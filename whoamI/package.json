@@ -1,0 +1,26 @@
+{
+  "name": "headparser",
+  "version": "1.0.0",
+  "description": "get details of client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leovaldez42/backend.git"
+  },
+  "author": "Gaurav Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leovaldez42/backend/issues"
+  },
+  "homepage": "https://github.com/Leovaldez42/backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.15",
+    "nodemon": "^2.0.4"
+  }
+}
